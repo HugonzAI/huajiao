@@ -114,22 +114,22 @@ export const products: Product[] = [
     isFeatured: false,
     translations: {
       zh: {
-        name: '优级印尼花胶（中）',
-        shortDescription: '优级印尼花胶中等规格，实惠之选',
+        name: 'Better Health 实用花胶（中）',
+        shortDescription: '更适合日常炖汤与新手入门的中规格花胶选择',
         description:
-          '与大片同产地同工艺，中等规格，每片约30-60克。非常适合初次接触花胶的顾客，入门首选，价格实惠，效果显著。',
+          '这款中规格 Better Health 实用花胶更偏向家庭日常使用，规格适中、容易上手，适合想从更稳妥价位开始接触花胶的客户。',
         preparationNotes:
           '1. 冷水浸泡6-8小时。\n2. 汆水去腥备用。\n3. 炖煮约1.5-2小时。',
-        tags: ['印尼', '优级', '干货', '中片'],
+        tags: ['Better Health 精选', '中规格', '日常炖汤', '入门友好'],
       },
       en: {
-        name: 'AA Indonesia Fish Maw (Medium)',
-        shortDescription: 'Premium Indonesian maw in medium size — great entry point',
+        name: 'Better Health Everyday Fish Maw (Medium)',
+        shortDescription: 'A practical medium-size option for everyday soup cooking and first-time buyers',
         description:
-          'Same quality as our large AA Indonesia maw, in a 30–60g medium size. A great starting point for those new to fish maw, offering excellent nourishment at an approachable price.',
+          'This Better Health medium-size option is positioned for regular home use, with an approachable format that suits first-time buyers and customers wanting a practical fish maw for repeated family cooking.',
         preparationNotes:
           '1. Soak in cold water for 6–8 hours.\n2. Blanch to remove odour, then rinse.\n3. Simmer for approximately 1.5–2 hours.',
-        tags: ['Indonesia', 'AA Grade', 'Dried', 'Medium'],
+        tags: ['Better Health Selection', 'Medium', 'Everyday Soups', 'Beginner Friendly'],
       },
     },
   },
@@ -146,22 +146,22 @@ export const products: Product[] = [
     isFeatured: false,
     translations: {
       zh: {
-        name: '一级印度花胶（大）',
-        shortDescription: '印度产优质花胶，经济实惠，适合日常养生',
+        name: 'Better Health 家庭装花胶（大）',
+        shortDescription: '更重视性价比与家庭常备的大片花胶选择',
         description:
-          '精选自印度西海岸，花胶色泽淡黄，质地结实，每片约50-80克。虽为一级品，但营养价值丰富，是追求性价比的顾客最佳选择，特别适合家庭大量采购使用。',
+          '这款 Better Health 家庭装花胶更适合希望兼顾规格与预算的客户，适合规律滋补、家庭分次炖煮，以及想买得更实在一些的用户。',
         preparationNotes:
           '1. 冷水浸泡6-8小时。\n2. 汆水去腥，过冷水。\n3. 与各种食材炖煮2小时。',
-        tags: ['印度', '一级', '干货', '大片'],
+        tags: ['Better Health 精选', '家庭装', '性价比', '大片'],
       },
       en: {
-        name: 'A Grade India Fish Maw (Large)',
-        shortDescription: 'Quality Indian fish maw — best value for everyday wellness',
+        name: 'Better Health Family Fish Maw (Large)',
+        shortDescription: 'A larger-format family option with strong value for regular wellness cooking',
         description:
-          'From India\'s west coast, these light golden maws are firm in texture, weighing 50–80g each. While graded A, they remain highly nourishing and represent outstanding value — ideal for families buying in larger quantities.',
+          'This Better Health family-size selection is designed for customers who want a larger-format fish maw while keeping the purchase practical and value-conscious. It works well for repeat home cooking and family nourishment.',
         preparationNotes:
           '1. Soak in cold water for 6–8 hours.\n2. Blanch to remove odour, then rinse.\n3. Simmer with various ingredients for 2 hours.',
-        tags: ['India', 'A Grade', 'Dried', 'Large'],
+        tags: ['Better Health Selection', 'Family Size', 'Value Choice', 'Large'],
       },
     },
   },
@@ -178,22 +178,22 @@ export const products: Product[] = [
     isFeatured: false,
     translations: {
       zh: {
-        name: '二级南非花胶（大装）',
-        shortDescription: '南非花胶大装，适合餐厅或家庭大量使用',
+        name: 'Better Health 大包装花胶（1kg）',
+        shortDescription: '适合餐饮、大家庭或长期炖汤使用的大包装选择',
         description:
-          '产自南非的优质花胶，每公斤装，适合餐厅、酒楼或有大量需求的家庭。花胶片型较小，约20-40克每片，但胶质同样丰富，用于炖汤效果极佳，性价比突出。',
+          '这款 Better Health 大包装花胶更适合有较高用量需求的客户，例如餐饮用途、大家庭分次炖煮，或希望一次备齐一批花胶的顾客。',
         preparationNotes:
           '1. 冷水浸泡4-6小时。\n2. 汆水去腥。\n3. 炖煮1.5-2小时。',
-        tags: ['南非', '二级', '干货', '大装'],
+        tags: ['Better Health 精选', '大包装', '餐饮/家庭', '高性价比'],
       },
       en: {
-        name: 'B Grade South Africa Fish Maw (Bulk 1kg)',
-        shortDescription: 'South African fish maw in bulk — ideal for restaurants or large families',
+        name: 'Better Health Bulk Fish Maw (1kg)',
+        shortDescription: 'A bulk-format option for larger households, kitchen prep, or higher-volume cooking',
         description:
-          'Quality South African fish maw in a 1kg pack, suitable for restaurants or families with high demand. Pieces are smaller (20–40g each) but equally rich in gelatine and nourishment. Outstanding value for high-volume use.',
+          'This Better Health bulk pack is aimed at customers with higher usage needs, including larger households, repeated soup preparation, or kitchen use where buying in volume makes more practical sense.',
         preparationNotes:
           '1. Soak in cold water for 4–6 hours.\n2. Blanch to remove odour.\n3. Simmer for 1.5–2 hours.',
-        tags: ['South Africa', 'B Grade', 'Dried', 'Bulk'],
+        tags: ['Better Health Selection', 'Bulk Pack', 'Family / Kitchen Use', 'Value'],
       },
     },
   },
@@ -210,22 +210,22 @@ export const products: Product[] = [
     isFeatured: false,
     translations: {
       zh: {
-        name: '经典礼盒装花胶',
-        shortDescription: '特级菲律宾花胶精美礼盒，送礼自用两相宜',
+        name: 'Better Health 经典礼盒',
+        shortDescription: '更适合送礼、探望长辈与节日体面场景的花胶礼盒',
         description:
-          '精选特级菲律宾花胶300克，配以精美礼盒包装，可附个人贺卡。无论是节日送礼、探病慰问还是商务馈赠，均为上佳之选。礼盒采用烫金工艺，高贵典雅，令收礼者倍感珍重。',
+          'Better Health 经典礼盒围绕送礼场景设计，适合节日拜访、探望长辈、商务心意或想送得更体面的客户。礼盒感比单买产品更完整，也更方便直接送出。',
         preparationNotes:
           '产品附有详细食用方法说明书，按指引操作即可。',
-        tags: ['礼盒', '菲律宾', '特级', '送礼'],
+        tags: ['Better Health 礼盒', '送礼优先', '节日体面', '高端选择'],
       },
       en: {
-        name: 'Classic Gift Set',
-        shortDescription: 'AAA Philippine fish maw in a premium gift box — perfect for gifting',
+        name: 'Better Health Classic Gift Set',
+        shortDescription: 'A gifting-first fish maw set designed for festive visits, elders, and premium presentation',
         description:
-          'A 300g selection of AAA Philippine fish maw presented in an elegant foil-stamped gift box, optionally accompanied by a personal greeting card. Perfect for festive occasions, get-well gifts, or corporate gifting — a truly memorable gesture of care.',
+          'The Better Health Classic Gift Set is designed around gifting occasions, making it suitable for festive visits, elders, thoughtful wellness gifts, and customers who want a more polished presentation than buying a single product on its own.',
         preparationNotes:
           'Full preparation instructions are included inside the gift box.',
-        tags: ['Gift Set', 'Philippines', 'AAA Grade', 'Premium'],
+        tags: ['Better Health Gift Set', 'Gifting', 'Premium Presentation', 'Festive Choice'],
       },
     },
   },
@@ -242,22 +242,22 @@ export const products: Product[] = [
     isFeatured: false,
     translations: {
       zh: {
-        name: '即食花胶（已发制）',
-        shortDescription: '经专业发制处理，开袋即可烹调，省时方便',
+        name: 'Better Health 即食花胶',
+        shortDescription: '更省时、更适合忙碌家庭与新手入门的即食型选择',
         description:
-          '选用优级印尼花胶，经过专业泡发及汆水处理，真空冷藏包装。购买后无需浸泡，直接加入汤底或食材中炖煮30分钟即可，省时省力，非常适合繁忙的现代家庭。',
+          '这款 Better Health 即食花胶更适合没有太多时间泡发处理、但又想把花胶更轻松地加入日常炖汤和滋补饮食中的客户。购买后处理门槛更低，也更适合新手。',
         preparationNotes:
           '1. 开封后直接使用，无需浸泡。\n2. 加入已煮好的汤底，炖煮30分钟。\n3. 开封后请尽快食用，冷藏保存不超过3天。',
-        tags: ['即食', '印尼', '优级', '方便'],
+        tags: ['Better Health 精选', '即食方便', '新手友好', '省时'],
       },
       en: {
-        name: 'Ready-to-Cook Fish Maw (Pre-soaked)',
-        shortDescription: 'Professionally pre-soaked fish maw — cook straight from the pack',
+        name: 'Better Health Ready-to-Cook Fish Maw',
+        shortDescription: 'A convenience-first option for busy households and first-time buyers',
         description:
-          'AA-grade Indonesian fish maw, professionally soaked and blanched then vacuum-sealed for freshness. No soaking required — simply add to your soup or braise and cook for 30 minutes. Ideal for busy modern households.',
+          'This Better Health ready-to-cook option is designed for customers who want fish maw to feel easier, faster, and more approachable in everyday cooking. It is especially suitable for busy households and first-time buyers.',
         preparationNotes:
           '1. Open pack and use directly — no soaking needed.\n2. Add to prepared soup or broth and simmer for 30 minutes.\n3. Consume soon after opening. Refrigerate and use within 3 days.',
-        tags: ['Ready-to-Cook', 'Indonesia', 'AA Grade', 'Convenient'],
+        tags: ['Better Health Selection', 'Ready-to-Cook', 'Beginner Friendly', 'Convenient'],
       },
     },
   },
