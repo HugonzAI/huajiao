@@ -237,7 +237,7 @@ export const products: Product[] = [
     origin: 'indonesia',
     weightGrams: 200,
     priceHKD: 680,
-    images: ['/images/products/processed.jpg'],
+    images: ['https://source.unsplash.com/featured/1200x900/?soup,prepared-food'],
     inStock: true,
     isFeatured: false,
     translations: {
