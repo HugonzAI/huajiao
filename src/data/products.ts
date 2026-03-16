@@ -41,7 +41,7 @@ export const products: Product[] = [
     origin: 'philippines',
     weightGrams: 250,
     priceHKD: 1580,
-    images: ['/images/products/aaa-medium.jpg'],
+    images: ['/images/products/aaa-medium.svg'],
     inStock: true,
     isFeatured: true,
     translations: {
