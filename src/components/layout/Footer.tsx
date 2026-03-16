@@ -13,8 +13,8 @@ export default function Footer() {
           <p className="text-xs text-gold-500 mb-2">花胶养生精品</p>
           <p className="text-sm text-gold-200 leading-relaxed">
             {locale === 'zh'
-              ? '精选全球优质花胶，传承百年养生之道。'
-              : 'Premium fish maw sourced from the world\'s finest origins.'}
+              ? 'Better Health 面向新西兰客户精选花胶，适合日常滋补、家庭炖汤与体面送礼。'
+              : 'Better Health curates premium fish maw for New Zealand customers seeking everyday nourishment, gifting options, and clearer product guidance.'}
           </p>
         </div>
         <div>
