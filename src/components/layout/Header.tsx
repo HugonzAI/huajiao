@@ -17,9 +17,13 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur border-b border-gold-200 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
-        <Link href={`/${locale}`} className="flex flex-col leading-tight">
-          <span className="font-serif text-xl font-bold text-gold-700">花胶精品</span>
-          <span className="text-xs text-gold-500 tracking-widest">PREMIUM FISH MAW</span>
+        <Link href={`/${locale}`} className="flex items-center gap-2">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo.svg" alt="Better Health" className="h-9 w-auto" />
+          <div className="flex flex-col leading-tight">
+            <span className="font-serif text-lg font-bold text-gold-700">Better Health</span>
+            <span className="text-[10px] text-gold-500 tracking-widest">花胶养生精品</span>
+          </div>
         </Link>
 
         {/* Desktop nav */}

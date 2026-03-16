@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Emblem: leaf + droplet health mark -->
+  <circle cx="24" cy="24" r="20" fill="#c9972a"/>
+  <circle cx="24" cy="24" r="17" fill="none" stroke="#fdf8ee" stroke-width="0.8" opacity="0.4"/>
+  <!-- Stylised fish-maw / leaf shape -->
+  <path d="M24 10 C32 14 36 20 32 28 C28 34 20 34 16 28 C12 20 16 14 24 10 Z"
+        fill="#fdf8ee" opacity="0.95"/>
+  <!-- Inner vein -->
+  <path d="M24 13 C24 20 24 27 24 31" stroke="#c9972a" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M24 18 C22 20 20 21 18 21" stroke="#c9972a" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M24 22 C22 24 20 25 18 25" stroke="#c9972a" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M24 18 C26 20 28 21 30 21" stroke="#c9972a" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M24 22 C26 24 28 25 30 25" stroke="#c9972a" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Wordmark -->
+  <text x="52" y="20" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#1a1208" letter-spacing="0.3">Better Health</text>
+  <text x="53" y="34" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="9" fill="#c9972a" letter-spacing="2">花胶养生精品</text>
+
+  <!-- Decorative line under Chinese text -->
+  <line x1="52" y1="38" x2="148" y2="38" stroke="#c9972a" stroke-width="0.5" opacity="0.4"/>
+</svg>

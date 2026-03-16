@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { products, getProductBySlug } from '@/data/products';
 import ProductGallery from '@/components/product-detail/ProductGallery';
 import ProductInfo from '@/components/product-detail/ProductInfo';
@@ -20,6 +20,7 @@ interface ProductDetailPageProps {
 }
 
 export default async function ProductDetailPage({ params }: ProductDetailPageProps) {
+  setRequestLocale(params.locale);
   const product = getProductBySlug(params.slug);
   if (!product) notFound();
 

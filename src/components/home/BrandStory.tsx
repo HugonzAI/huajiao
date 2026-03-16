@@ -26,7 +26,7 @@ export default function BrandStory() {
               {locale === 'zh' ? '年匠心专注' : 'Years of Expertise'}
             </p>
             <div className="w-12 h-px bg-gold-300 mx-auto my-4" />
-            <p className="font-serif text-2xl text-gold-200">花胶精品</p>
+            <p className="font-serif text-2xl text-gold-200">Better Health</p>
           </div>
         </div>
       </div>

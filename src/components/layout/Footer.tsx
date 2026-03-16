@@ -9,7 +9,8 @@ export default function Footer() {
     <footer className="bg-ink text-gold-100 mt-16">
       <div className="max-w-6xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <p className="font-serif text-xl font-bold text-gold-300 mb-2">花胶精品</p>
+          <p className="font-serif text-xl font-bold text-gold-300 mb-2">Better Health</p>
+          <p className="text-xs text-gold-500 mb-2">花胶养生精品</p>
           <p className="text-sm text-gold-200 leading-relaxed">
             {locale === 'zh'
               ? '精选全球优质花胶，传承百年养生之道。'
@@ -34,7 +35,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-gold-900 text-center text-xs text-gold-600 py-4">
-        © {new Date().getFullYear()} 花胶精品 Premium Fish Maw. All rights reserved.
+        © {new Date().getFullYear()} Better Health 花胶养生精品. All rights reserved.
       </div>
     </footer>
   );

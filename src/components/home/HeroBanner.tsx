@@ -27,7 +27,7 @@ export default function HeroBanner() {
       {/* Content */}
       <div className="relative z-10 text-center px-4 max-w-3xl mx-auto">
         <p className="text-gold-300 text-sm tracking-[0.3em] uppercase mb-6 font-medium">
-          PREMIUM FISH MAW · 花胶精品
+          BETTER HEALTH · 花胶养生精品
         </p>
         <h1 className="font-serif text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">
           {t('headline')}

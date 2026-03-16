@@ -1,0 +1,3 @@
+# Default locale redirect
+/  /zh/  302
+/index.html  /zh/  302
