@@ -28,8 +28,8 @@ export default function Footer() {
         <div>
           <p className="font-medium text-gold-300 mb-3">{locale === 'zh' ? '联系我们' : 'Contact'}</p>
           <ul className="space-y-2 text-sm text-gold-200">
-            <li>📧 info@huajiao.com</li>
-            <li>📱 WeChat: huajiao_premium</li>
+            <li>📧 hello@localhub.nz</li>
+            <li>📍 {locale === 'zh' ? '服务新西兰客户' : 'Serving New Zealand customers'}</li>
             <li>🕐 {locale === 'zh' ? '周一至周六 10:00–19:00' : 'Mon–Sat 10:00–19:00'}</li>
           </ul>
         </div>
