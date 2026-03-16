@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "cart": "购物车",
+    "about": "关于我们"
+  },
+  "home": {
+    "hero": {
+      "headline": "珍品花胶，滋养百年",
+      "subheadline": "精选优质花胶，传承养生之道，馈赠至亲好友",
+      "cta": "立即选购"
+    },
+    "featuredTitle": "精选产品",
+    "featuredSubtitle": "甄选各级优质花胶，满足不同需求",
+    "brandStoryTitle": "品牌故事",
+    "brandStoryBody": "我们深耕花胶行业逾二十年，足迹遍及菲律宾、印度尼西亚、印度及南非等主要产区。凭借严格的采购标准与传统晒制工艺，每一片花胶都经过专业团队的细心拣选，确保品质如一。花胶，古称鱼鳔，富含胶原蛋白与珍贵营养，是中华传统滋补之宝。",
+    "brandStoryImageAlt": "传统花胶加工",
+    "pillarsTitle": "为什么选择我们",
+    "pillar1Title": "严选产地",
+    "pillar1Body": "直接对接全球优质产区，确保每批货源的纯正与新鲜",
+    "pillar2Title": "传统工艺",
+    "pillar2Body": "沿用传统天然晒制方法，最大程度保留花胶天然营养",
+    "pillar3Title": "专业分级",
+    "pillar3Body": "按大小、厚度、产地严格分级，透明标注，物有所值",
+    "pillar4Title": "品质保证",
+    "pillar4Body": "二十余年口碑积累，每一位顾客都是我们最好的见证"
+  },
+  "products": {
+    "title": "全部产品",
+    "subtitle": "精选各级花胶，品质保证",
+    "filterByGrade": "按等级筛选",
+    "filterByCategory": "按类别筛选",
+    "allGrades": "所有等级",
+    "allCategories": "所有类别",
+    "inStock": "有货",
+    "outOfStock": "售罄",
+    "addToCart": "加入购物车",
+    "addedToCart": "已加入",
+    "gradeLabel": "等级",
+    "originLabel": "产地",
+    "weightLabel": "净重",
+    "priceLabel": "价格",
+    "viewDetails": "查看详情",
+    "noProducts": "暂无符合条件的产品"
+  },
+  "productDetail": {
+    "preparation": "食用方法",
+    "storage": "储存方式",
+    "description": "产品介绍",
+    "relatedTitle": "相关产品",
+    "quantity": "数量",
+    "buyNow": "立即购买",
+    "addToCart": "加入购物车",
+    "addedToCart": "已加入购物车",
+    "inStock": "有货",
+    "outOfStock": "暂时缺货",
+    "storageText": "请置于干燥阴凉处，避免阳光直射。建议放入密封袋后冷藏保存，可保存1-2年。"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "购物车是空的",
+    "emptyHint": "快去选购您喜爱的花胶吧",
+    "continueShopping": "继续选购",
+    "checkout": "前往结账",
+    "subtotal": "小计",
+    "shipping": "运费",
+    "shippingFree": "免运费",
+    "shippingThreshold": "订单满 HKD 500 免运费",
+    "shippingFee": "HKD 50",
+    "total": "合计",
+    "remove": "移除",
+    "itemCount": "{count} 件商品",
+    "unit": "件"
+  },
+  "checkout": {
+    "title": "填写收货信息",
+    "orderSummary": "订单摘要",
+    "fullName": "收件人姓名",
+    "phone": "联系电话",
+    "email": "电子邮件",
+    "address": "收货地址",
+    "district": "地区",
+    "city": "城市",
+    "notes": "备注（选填）",
+    "notesPlaceholder": "如有特殊要求，请在此说明",
+    "paymentMethod": "付款方式",
+    "paymentNote": "银行转账 / 货到付款（我们会在确认订单后与您联系）",
+    "placeOrder": "确认订单",
+    "processing": "处理中...",
+    "requiredField": "此栏为必填",
+    "invalidEmail": "请输入有效的电子邮件地址",
+    "invalidPhone": "请输入有效的电话号码",
+    "successTitle": "订单已提交！",
+    "successBody": "感谢您的购买。我们将在 24 小时内通过电话或电邮与您确认订单及付款详情。",
+    "orderRef": "订单编号",
+    "backToHome": "返回首页",
+    "continueShopping": "继续选购"
+  },
+  "grades": {
+    "AAA": "特级",
+    "AA": "优级",
+    "A": "一级",
+    "B": "二级"
+  },
+  "categories": {
+    "dried": "干货花胶",
+    "processed": "即食花胶",
+    "gift-set": "礼盒装"
+  },
+  "origins": {
+    "philippines": "菲律宾",
+    "indonesia": "印度尼西亚",
+    "india": "印度",
+    "south-africa": "南非"
+  },
+  "common": {
+    "hkd": "HKD",
+    "gram": "克",
+    "loading": "加载中...",
+    "backToProducts": "返回产品列表"
+  }
+}

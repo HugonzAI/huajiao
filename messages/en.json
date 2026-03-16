@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "headline": "Premium Fish Maw, Nourishing Tradition",
+      "subheadline": "Carefully sourced fish maw from the world's finest origins, delivering generations of wellness",
+      "cta": "Shop Now"
+    },
+    "featuredTitle": "Featured Products",
+    "featuredSubtitle": "Hand-picked premium fish maw for every occasion",
+    "brandStoryTitle": "Our Story",
+    "brandStoryBody": "With over two decades in the fish maw trade, we source directly from the Philippines, Indonesia, India and South Africa. Our expert team personally inspects every batch, upholding strict quality standards and traditional sun-drying methods that preserve the natural nutrients fish maw has been prized for throughout Chinese culinary tradition.",
+    "brandStoryImageAlt": "Traditional fish maw processing",
+    "pillarsTitle": "Why Choose Us",
+    "pillar1Title": "Premium Origins",
+    "pillar1Body": "Direct sourcing from the world's finest fishing grounds ensures purity and freshness in every piece",
+    "pillar2Title": "Traditional Methods",
+    "pillar2Body": "Time-honoured sun-drying techniques that lock in natural collagen and nutrients at their peak",
+    "pillar3Title": "Expert Grading",
+    "pillar3Body": "Transparent grading by size, thickness and origin — so you always know exactly what you're buying",
+    "pillar4Title": "Trusted Quality",
+    "pillar4Body": "Over 20 years of customer trust. Every buyer is our best testament to uncompromising quality"
+  },
+  "products": {
+    "title": "All Products",
+    "subtitle": "Premium fish maw, quality guaranteed",
+    "filterByGrade": "Filter by Grade",
+    "filterByCategory": "Filter by Category",
+    "allGrades": "All Grades",
+    "allCategories": "All Categories",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added",
+    "gradeLabel": "Grade",
+    "originLabel": "Origin",
+    "weightLabel": "Net Weight",
+    "priceLabel": "Price",
+    "viewDetails": "View Details",
+    "noProducts": "No products match your filters"
+  },
+  "productDetail": {
+    "preparation": "Preparation",
+    "storage": "Storage",
+    "description": "Description",
+    "relatedTitle": "Related Products",
+    "quantity": "Quantity",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "storageText": "Store in a cool, dry place away from direct sunlight. For longer storage, place in a sealed bag and refrigerate for up to 1–2 years."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "Browse our premium fish maw selection",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "shippingThreshold": "Free shipping on orders over HKD 500",
+    "shippingFee": "HKD 50",
+    "total": "Total",
+    "remove": "Remove",
+    "itemCount": "{count} items",
+    "unit": "pcs"
+  },
+  "checkout": {
+    "title": "Delivery Information",
+    "orderSummary": "Order Summary",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "address": "Delivery Address",
+    "district": "District",
+    "city": "City",
+    "notes": "Notes (optional)",
+    "notesPlaceholder": "Any special requests or delivery instructions",
+    "paymentMethod": "Payment Method",
+    "paymentNote": "Bank Transfer / Cash on Delivery (we will contact you to confirm order and payment details)",
+    "placeOrder": "Place Order",
+    "processing": "Processing...",
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "successTitle": "Order Placed!",
+    "successBody": "Thank you for your purchase. We will contact you within 24 hours by phone or email to confirm your order and payment details.",
+    "orderRef": "Order Reference",
+    "backToHome": "Back to Home",
+    "continueShopping": "Continue Shopping"
+  },
+  "grades": {
+    "AAA": "AAA Grade",
+    "AA": "AA Grade",
+    "A": "A Grade",
+    "B": "B Grade"
+  },
+  "categories": {
+    "dried": "Dried Fish Maw",
+    "processed": "Ready-to-Cook",
+    "gift-set": "Gift Sets"
+  },
+  "origins": {
+    "philippines": "Philippines",
+    "indonesia": "Indonesia",
+    "india": "India",
+    "south-africa": "South Africa"
+  },
+  "common": {
+    "hkd": "HKD",
+    "gram": "g",
+    "loading": "Loading...",
+    "backToProducts": "Back to Products"
+  }
+}
