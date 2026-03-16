@@ -43,7 +43,7 @@ export default function ProductCard({ product }: ProductCardProps) {
           fill
           className="object-cover group-hover:scale-105 transition-transform duration-500"
           onError={(e) => {
-            (e.currentTarget as HTMLImageElement).src = '/images/placeholder.jpg';
+            (e.currentTarget as HTMLImageElement).src = '/images/placeholder.svg';
           }}
         />
         {!product.inStock && (

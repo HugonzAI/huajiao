@@ -22,7 +22,7 @@ export default function ProductGallery({ images, alt }: ProductGalleryProps) {
           className="object-cover"
           priority
           onError={(e) => {
-            (e.currentTarget as HTMLImageElement).src = '/images/placeholder.jpg';
+            (e.currentTarget as HTMLImageElement).src = '/images/placeholder.svg';
           }}
         />
       </div>

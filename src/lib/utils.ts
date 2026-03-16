@@ -5,6 +5,6 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export function formatPrice(priceHKD: number): string {
-  return `HKD ${priceHKD.toLocaleString()}`;
+export function formatPrice(price: number): string {
+  return `NZD ${price.toLocaleString()}`;
 }

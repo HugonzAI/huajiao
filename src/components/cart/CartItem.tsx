@@ -28,7 +28,7 @@ export default function CartItem({ item }: CartItemProps) {
           alt={info.name}
           fill
           className="object-cover"
-          onError={(e) => { (e.currentTarget as HTMLImageElement).src = '/images/placeholder.jpg'; }}
+          onError={(e) => { (e.currentTarget as HTMLImageElement).src = '/images/placeholder.svg'; }}
         />
       </div>
 

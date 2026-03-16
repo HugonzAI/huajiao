@@ -14,19 +14,19 @@ export const products: Product[] = [
     isFeatured: true,
     translations: {
       zh: {
-        name: '特级菲律宾花胶（大）',
-        shortDescription: '菲律宾顶级黄花鱼鳔，片大肉厚，胶质丰富，为花胶中的极品',
+        name: 'Better Health 精选花胶（大）',
+        shortDescription: '主打新西兰客户的高端花胶选择，片大肉厚，适合送礼与滋补炖汤',
         description:
-          '本品精选自菲律宾深海野生黄花鱼，采用传统天然晒制工艺，片型完整饱满，颜色金黄透亮，胶质极为丰厚。每片重约80-120克，是花胶中的顶级珍品，极适合用于炖汤、煮糖水，或作为高端礼品馈赠亲友。',
+          '这款 Better Health 精选大规格花胶面向新西兰客户挑选，片型完整饱满，胶质丰厚，适合用于高端炖汤、糖水或礼盒搭配。对于重视品质、卖相和送礼体面的客户来说，这是一款代表性产品。',
         preparationNotes:
           '1. 提前一晚将花胶浸泡于清水中，放入冰箱冷藏泡发约8-12小时。\n2. 取出后用姜、葱、料酒汆水5分钟去腥，再过冷水备用。\n3. 与瘦肉、莲子、红枣等材料一同炖煮约2-3小时即可。',
         tags: ['菲律宾', '特级', '干货', '大片'],
       },
       en: {
-        name: 'AAA Philippines Fish Maw (Large)',
-        shortDescription: 'Top-grade Philippine croaker maw — large, thick, and richly gelatinous',
+        name: 'Better Health Premium Fish Maw (Large)',
+        shortDescription: 'Large premium fish maw selected for gifting, soups, and high-end wellness cooking in New Zealand',
         description:
-          'Sourced from wild deep-sea yellow croaker off the Philippines coast, these premium maws are sun-dried using traditional methods, resulting in complete, golden-amber pieces with exceptional collagen content. Each piece weighs approximately 80–120g, making this the pinnacle of fish maw quality — ideal for soups, desserts, or as a prestigious gift.',
+          'A Better Health premium-grade fish maw selection curated for New Zealand customers who want larger, fuller pieces with strong gelatin content. Ideal for nourishing soups, dessert broths, or premium gifting, this is one of the standout options in the range for customers prioritising quality and presentation.',
         preparationNotes:
           '1. Soak overnight in cold water in the refrigerator for 8–12 hours until fully hydrated.\n2. Blanch with ginger, spring onion and Shaoxing wine for 5 minutes to remove odour, then rinse under cold water.\n3. Simmer with lean pork, lotus seeds, red dates and other ingredients for 2–3 hours.',
         tags: ['Philippines', 'AAA Grade', 'Dried', 'Large'],
@@ -46,19 +46,19 @@ export const products: Product[] = [
     isFeatured: true,
     translations: {
       zh: {
-        name: '特级菲律宾花胶（中）',
-        shortDescription: '菲律宾顶级花胶，中等尺寸，性价比极高',
+        name: 'Better Health 精选花胶（中）',
+        shortDescription: '适合新西兰家庭日常炖汤的优质花胶，中等规格更实用',
         description:
-          '与大片同产地同工艺，为特级菲律宾花胶的中等规格，每片约40-70克。胶质丰富，营养价值与大片一致，价格更为亲民，非常适合日常养生炖汤。',
+          '这款中规格 Better Health 精选花胶兼顾品质、实用性和价格，适合日常滋补炖汤，也适合想先从优质花胶开始尝试的客户。对很多新西兰家庭来说，这是更容易长期回购的一档。',
         preparationNotes:
           '1. 提前8-12小时冷水浸泡至完全发透。\n2. 汆水去腥后备用。\n3. 与喜欢的材料一同炖煮2小时。',
         tags: ['菲律宾', '特级', '干货', '中片'],
       },
       en: {
-        name: 'AAA Philippines Fish Maw (Medium)',
-        shortDescription: 'Top-grade Philippine maw in medium size — exceptional value',
+        name: 'Better Health Premium Fish Maw (Medium)',
+        shortDescription: 'A balanced premium option for regular New Zealand wellness cooking',
         description:
-          'Same origin and processing as our large AAA maw, in a medium size of 40–70g per piece. Equally rich in collagen and nutrients, at a more accessible price point — perfect for regular wellness cooking.',
+          'A medium-size Better Health premium fish maw option that offers a strong balance of quality, versatility, and price. Suitable for regular home cooking, nourishing soups, and customers wanting a premium fish maw without moving to the largest gift-style grade.',
         preparationNotes:
           '1. Soak in cold water in the refrigerator for 8–12 hours.\n2. Blanch to remove odour, then rinse.\n3. Simmer with your preferred ingredients for 2 hours.',
         tags: ['Philippines', 'AAA Grade', 'Dried', 'Medium'],
