@@ -77,7 +77,7 @@ export const products: Product[] = [
     origin: 'indonesia',
     weightGrams: 500,
     priceHKD: 1880,
-    images: ['/images/products/aa-large.jpg'],
+    images: ['/images/products/aa-large.svg'],
     inStock: true,
     isFeatured: true,
     translations: {

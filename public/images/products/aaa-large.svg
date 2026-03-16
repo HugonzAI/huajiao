@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F7F0E3"/>
+  <rect x="70" y="70" width="1060" height="760" rx="36" fill="#FFF9EF" stroke="#E2C78A" stroke-width="4"/>
+  <circle cx="920" cy="210" r="130" fill="#F2D7A1" opacity="0.45"/>
+  <circle cx="270" cy="710" r="160" fill="#E8C27B" opacity="0.28"/>
+  <rect x="115" y="120" width="390" height="590" rx="28" fill="#FFFFFF" stroke="#E6D2A3" stroke-width="3"/>
+  <rect x="145" y="150" width="330" height="38" rx="10" fill="#2E261B" opacity="0.08"/>
+  <text x="165" y="176" fill="#7B6434" font-size="26" font-family="Arial, sans-serif">BETTER HEALTH</text>
+  <text x="165" y="225" fill="#3B2E16" font-size="42" font-weight="700" font-family="Georgia, serif">Premium Fish Maw</text>
+  <text x="165" y="268" fill="#8E7540" font-size="24" font-family="Arial, sans-serif">Large grade • gifting selection</text>
+  <rect x="160" y="610" width="300" height="56" rx="14" fill="#E9C16F"/>
+  <text x="235" y="646" fill="#4A3916" font-size="28" font-weight="700" font-family="Arial, sans-serif">500g • NZD 2,980</text>
+  <g transform="translate(575 185)">
+    <ellipse cx="160" cy="290" rx="190" ry="82" fill="#D6BE8A" opacity="0.35"/>
+    <path d="M126 33C178 8 245 31 268 89C286 133 257 167 204 188C164 204 146 226 126 254C102 287 60 309 23 283C-8 261 -7 218 23 183C48 153 65 126 72 90C80 54 95 43 126 33Z" fill="#E1B469"/>
+    <path d="M303 112C348 86 408 97 433 142C456 183 426 225 377 243C342 255 320 272 299 299C272 332 220 350 183 322C145 294 154 245 186 214C214 188 230 164 238 135C246 102 269 87 303 112Z" fill="#D79F54"/>
+    <path d="M167 214C220 188 282 199 307 246C331 292 298 333 242 352C198 367 174 391 152 425C129 459 76 474 41 449C4 422 7 367 43 333C77 301 93 279 101 246C108 222 132 212 167 214Z" fill="#E8C27B"/>
+    <path d="M373 282C415 257 463 265 486 304C507 340 484 379 441 397C411 410 391 425 373 448C348 480 304 492 273 469C240 444 246 402 275 374C302 349 316 328 323 303C330 282 346 270 373 282Z" fill="#C98D43"/>
+    <path d="M103 375C152 350 212 361 237 405C260 446 235 485 186 505C147 520 127 538 108 565C83 600 34 611 0 585C-31 561 -28 516 0 486C28 456 44 433 52 407C60 383 74 371 103 375Z" fill="#DFA759"/>
+  </g>
+</svg>

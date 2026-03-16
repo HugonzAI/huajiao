@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F3EEE5"/>
+  <rect x="68" y="68" width="1064" height="764" rx="36" fill="#FFFCF4" stroke="#DEC68F" stroke-width="4"/>
+  <circle cx="266" cy="191" r="120" fill="#E9C071" opacity="0.26"/>
+  <rect x="770" y="116" width="314" height="628" rx="30" fill="#FFF7E6" stroke="#E6D0A0" stroke-width="3"/>
+  <text x="805" y="166" fill="#7C6535" font-size="24" font-family="Arial, sans-serif">BETTER HEALTH</text>
+  <text x="805" y="214" fill="#3A2F1C" font-size="38" font-weight="700" font-family="Georgia, serif">Family Selection</text>
+  <text x="805" y="255" fill="#917641" font-size="22" font-family="Arial, sans-serif">Large pieces • practical premium</text>
+  <rect x="805" y="639" width="240" height="54" rx="14" fill="#E5BE69"/>
+  <text x="845" y="673" fill="#4B3916" font-size="27" font-weight="700" font-family="Arial, sans-serif">500g • NZD 1,880</text>
+  <g transform="translate(122 180)">
+    <ellipse cx="305" cy="455" rx="290" ry="70" fill="#D8C18F" opacity="0.3"/>
+    <path d="M151 95C215 62 290 73 325 127C358 179 330 229 264 255C214 274 187 300 164 338C137 382 73 404 22 371C-26 341 -27 281 19 242C58 209 83 181 95 147C109 113 126 107 151 95Z" fill="#E0B268"/>
+    <path d="M383 125C438 98 501 109 532 153C561 194 542 240 487 266C445 285 420 307 399 340C373 381 315 399 271 371C228 344 226 293 266 258C300 228 321 202 332 174C343 145 357 138 383 125Z" fill="#CF9450"/>
+    <path d="M287 300C347 272 414 281 446 329C476 373 450 423 390 447C343 466 317 490 297 523C271 566 213 582 169 552C127 524 127 470 163 436C195 406 214 379 225 349C235 322 254 314 287 300Z" fill="#E7C57E"/>
+    <path d="M520 316C570 292 623 300 651 338C679 376 660 421 612 444C578 460 557 479 539 506C515 541 466 554 430 529C395 504 394 462 424 431C451 403 468 380 477 355C486 332 497 327 520 316Z" fill="#C8873D"/>
+  </g>
+</svg>
