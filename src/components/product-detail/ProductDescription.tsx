@@ -46,7 +46,31 @@ export default function ProductDescription({ product }: ProductDescriptionProps)
 
       {/* Content */}
       <div className="p-6 text-sm text-ink leading-loose">
-        {tab === 'description' && <p>{info.description}</p>}
+        {tab === 'description' && (
+          <div className="space-y-5">
+            <p>{info.description}</p>
+            {(info.whoItsFor || info.bestFor) && (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {info.whoItsFor && (
+                  <div className="rounded-xl bg-gold-50 border border-gold-100 p-4">
+                    <p className="text-xs uppercase tracking-widest text-gold-500 mb-2">
+                      {locale === 'zh' ? '适合谁买' : 'Who it suits'}
+                    </p>
+                    <p>{info.whoItsFor}</p>
+                  </div>
+                )}
+                {info.bestFor && (
+                  <div className="rounded-xl bg-gold-50 border border-gold-100 p-4">
+                    <p className="text-xs uppercase tracking-widest text-gold-500 mb-2">
+                      {locale === 'zh' ? '更适合什么场景' : 'Best for'}
+                    </p>
+                    <p>{info.bestFor}</p>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
         {tab === 'preparation' && (
           <div className="whitespace-pre-line">{info.preparationNotes}</div>
         )}

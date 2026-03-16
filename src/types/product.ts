@@ -7,6 +7,8 @@ export interface ProductTranslation {
   shortDescription: string;
   description: string;
   preparationNotes: string;
+  whoItsFor?: string;
+  bestFor?: string;
   tags: string[];
 }
 

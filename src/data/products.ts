@@ -59,6 +59,10 @@ export const products: Product[] = [
         shortDescription: 'A balanced premium option for regular New Zealand wellness cooking',
         description:
           'A medium-size Better Health premium fish maw option that offers a strong balance of quality, versatility, and price. Suitable for regular home cooking, nourishing soups, and customers wanting a premium fish maw without moving to the largest gift-style grade.',
+        whoItsFor:
+          'A strong fit for New Zealand households wanting a premium fish maw they can buy more regularly without jumping straight to the highest-priced format.',
+        bestFor:
+          'Best for everyday nourishing soups, repeat purchase customers, and buyers looking for a balanced premium option rather than a gifting-first piece.',
         preparationNotes:
           '1. Soak in cold water in the refrigerator for 8–12 hours.\n2. Blanch to remove odour, then rinse.\n3. Simmer with your preferred ingredients for 2 hours.',
         tags: ['Philippines', 'AAA Grade', 'Dried', 'Medium'],
