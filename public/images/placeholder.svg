@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f9edcc"/>
+  <ellipse cx="200" cy="200" rx="70" ry="100" fill="#e8c55a" opacity="0.4"/>
+  <text x="200" y="210" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#c9972a" opacity="0.6">Better Health</text>
+</svg>

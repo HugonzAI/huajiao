@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "headline": "Premium New Zealand Fish Maw, Curated for Wellness",
+      "subheadline": "A Better Health storefront focused on premium fish maw selected for New Zealand customers who want quality, clarity, and trusted sourcing.",
+      "cta": "Shop Now"
+    },
+    "featuredTitle": "Featured Products",
+    "featuredSubtitle": "A curated Better Health selection for New Zealand fish maw customers",
+    "brandStoryTitle": "Our Story",
+    "brandStoryBody": "Better Health is built around serving New Zealand customers looking for premium fish maw with clearer product information, trusted quality, and a more polished buying experience. We focus on quality-led selection, transparent grading, and products suited for gifting, nourishing soups, and daily wellness cooking.",
+    "brandStoryImageAlt": "Better Health fish maw display",
+    "guide": {
+      "title": "How to choose fish maw more confidently",
+      "intro": "For many New Zealand customers, fish maw is bought for gifting, family nourishment, or seasonal wellness cooking. Better Health is designed to make those decisions clearer and less intimidating.",
+      "item1Title": "For everyday nourishing soups",
+      "item1Body": "If you want something practical for regular home cooking, medium-size premium fish maw is usually the easiest place to start. It gives you a strong balance of quality, usability, and price.",
+      "item2Title": "For gifting and premium presentation",
+      "item2Body": "Larger, fuller pieces and gift-style options tend to suit festive gifting, visits to elders, and situations where presentation matters as much as nourishment.",
+      "item3Title": "For convenience and first-time buyers",
+      "item3Body": "If you are new to fish maw or want something simpler to prepare, ready-to-cook or more approachable mid-range options can be a better fit than starting with the highest-priced grade."
+    },
+    "pillarsTitle": "Why Choose Us",
+    "pillar1Title": "Curated Quality",
+    "pillar1Body": "A Better Health selection built for customers who want confidence, consistency, and quality-led fish maw options in New Zealand",
+    "pillar2Title": "Clearer Product Information",
+    "pillar2Body": "Weights, grading, use cases, and preparation notes are easier to compare before you buy",
+    "pillar3Title": "Transparent Grading",
+    "pillar3Body": "Products are presented with clearer grading and positioning so customers understand what they are buying",
+    "pillar4Title": "Made for Gifting & Wellness",
+    "pillar4Body": "Suitable for premium gifting, nourishing soups, and everyday wellness cooking for New Zealand households"
+  },
+  "products": {
+    "title": "All Products",
+    "subtitle": "Better Health fish maw selected for New Zealand customers",
+    "filterByGrade": "Filter by Grade",
+    "filterByCategory": "Filter by Category",
+    "allGrades": "All Grades",
+    "allCategories": "All Categories",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added",
+    "gradeLabel": "Grade",
+    "originLabel": "Collection",
+    "weightLabel": "Net Weight",
+    "priceLabel": "Price",
+    "viewDetails": "View Details",
+    "noProducts": "No products match your filters"
+  },
+  "productDetail": {
+    "preparation": "Preparation",
+    "storage": "Storage",
+    "description": "Description",
+    "relatedTitle": "Related Products",
+    "quantity": "Quantity",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "storageText": "Store in a cool, dry place away from direct sunlight. For longer storage, place in a sealed bag and refrigerate for up to 1–2 years."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "Browse the Better Health fish maw collection",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "shippingThreshold": "Free New Zealand shipping on orders over NZD 120",
+    "shippingFee": "NZD 12",
+    "total": "Total",
+    "remove": "Remove",
+    "itemCount": "{count} items",
+    "unit": "pcs"
+  },
+  "checkout": {
+    "title": "Delivery Information",
+    "orderSummary": "Order Summary",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "address": "Delivery Address",
+    "district": "District",
+    "city": "City",
+    "notes": "Notes (optional)",
+    "notesPlaceholder": "Any special requests or delivery instructions",
+    "paymentMethod": "Payment Method",
+    "paymentNote": "Bank transfer / local payment arrangement (we will contact you to confirm your order, shipping details, and payment)",
+    "placeOrder": "Place Order",
+    "processing": "Processing...",
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "successTitle": "Order Placed!",
+    "successBody": "Thank you for your purchase. We will contact you within 24 hours by phone or email to confirm your order, shipping details, and payment.",
+    "orderRef": "Order Reference",
+    "backToHome": "Back to Home",
+    "continueShopping": "Continue Shopping"
+  },
+  "grades": {
+    "AAA": "AAA Grade",
+    "AA": "AA Grade",
+    "A": "A Grade",
+    "B": "B Grade"
+  },
+  "categories": {
+    "dried": "Dried Fish Maw",
+    "processed": "Ready-to-Cook",
+    "gift-set": "Gift Sets"
+  },
+  "origins": {
+    "philippines": "Better Health Selection",
+    "indonesia": "Better Health Selection",
+    "india": "Better Health Selection",
+    "south-africa": "Better Health Selection"
+  },
+  "common": {
+    "hkd": "NZD",
+    "gram": "g",
+    "loading": "Loading...",
+    "backToProducts": "Back to Products"
+  }
+}

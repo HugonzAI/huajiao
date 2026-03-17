@@ -1,0 +1,19 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F6F1E8"/>
+  <rect x="74" y="74" width="1052" height="752" rx="34" fill="#FFFDF7" stroke="#DFC48D" stroke-width="4"/>
+  <circle cx="927" cy="692" r="150" fill="#EBC780" opacity="0.28"/>
+  <rect x="104" y="122" width="330" height="612" rx="30" fill="#FFF8EA" stroke="#E8D2A8" stroke-width="3"/>
+  <text x="144" y="172" fill="#7C6535" font-size="25" font-family="Arial, sans-serif">BETTER HEALTH</text>
+  <text x="144" y="220" fill="#3A2F1C" font-size="40" font-weight="700" font-family="Georgia, serif">Premium Fish Maw</text>
+  <text x="144" y="262" fill="#917641" font-size="23" font-family="Arial, sans-serif">Medium grade • daily nourishment</text>
+  <rect x="142" y="628" width="256" height="54" rx="14" fill="#E6C16D"/>
+  <text x="194" y="662" fill="#4B3916" font-size="28" font-weight="700" font-family="Arial, sans-serif">250g • NZD 1,580</text>
+  <g transform="translate(470 168)">
+    <ellipse cx="238" cy="452" rx="265" ry="68" fill="#D9C89C" opacity="0.28"/>
+    <path d="M120 78C164 55 219 62 248 101C276 139 262 192 215 214C180 230 159 249 142 274C121 305 76 324 36 302C0 283 -10 240 20 206C47 176 66 153 76 129C86 104 95 91 120 78Z" fill="#E0B56B"/>
+    <path d="M294 145C339 120 392 126 420 163C448 198 437 245 392 267C359 282 339 300 322 326C301 356 258 373 221 352C187 332 180 293 210 262C236 235 255 214 265 189C274 166 283 152 294 145Z" fill="#D59D55"/>
+    <path d="M210 278C258 252 314 262 345 301C373 337 360 386 312 408C276 424 253 445 234 472C212 504 166 520 129 497C94 474 90 431 118 399C143 371 161 347 170 320C178 297 190 286 210 278Z" fill="#E6C17A"/>
+    <path d="M403 340C445 318 492 324 516 358C540 391 532 434 489 456C456 472 434 490 418 512C397 541 356 555 323 537C291 519 286 482 312 452C336 425 353 404 360 381C368 360 381 349 403 340Z" fill="#C98C42"/>
+    <path d="M87 390C132 369 183 377 207 411C232 445 224 487 183 509C148 527 130 544 114 567C93 596 50 606 19 585C-11 564 -14 523 11 494C35 466 50 444 59 422C68 401 75 396 87 390Z" fill="#DFA85A"/>
+  </g>
+</svg>
