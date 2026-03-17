@@ -36,12 +36,12 @@ export default function ProductCard({ product }: ProductCardProps) {
       className="group bg-white rounded-xl overflow-hidden border border-gold-100 hover:border-gold-300 hover:shadow-md transition-all flex flex-col"
     >
       {/* Image */}
-      <div className="relative aspect-square bg-gold-50 overflow-hidden">
+      <div className="relative aspect-[4/3] bg-gold-50 overflow-hidden p-3 sm:p-4">
         <Image
           src={product.images[0]}
           alt={info.name}
           fill
-          className="object-cover group-hover:scale-105 transition-transform duration-500"
+          className="object-contain group-hover:scale-[1.02] transition-transform duration-500"
           onError={(e) => {
             (e.currentTarget as HTMLImageElement).src = '/images/placeholder.svg';
           }}

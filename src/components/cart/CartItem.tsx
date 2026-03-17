@@ -22,12 +22,12 @@ export default function CartItem({ item }: CartItemProps) {
   return (
     <div className="flex gap-4 py-5 border-b border-gold-100 last:border-0">
       {/* Image */}
-      <div className="relative w-20 h-20 rounded-lg overflow-hidden bg-gold-50 flex-shrink-0">
+      <div className="relative w-20 h-20 rounded-lg overflow-hidden bg-gold-50 flex-shrink-0 p-1">
         <Image
           src={item.product.images[0]}
           alt={info.name}
           fill
-          className="object-cover"
+          className="object-contain"
           onError={(e) => { (e.currentTarget as HTMLImageElement).src = '/images/placeholder.svg'; }}
         />
       </div>
