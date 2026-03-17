@@ -11,6 +11,7 @@ export default function HomePage({ params }: { params: { locale: string } }) {
     <>
       <HeroBanner />
       <FeaturedProducts />
+      <BuyingGuide />
       <BrandStory />
       <QualityPillars />
     </>

@@ -9,7 +9,7 @@ export const products: Product[] = [
     origin: 'philippines',
     weightGrams: 500,
     priceHKD: 2980,
-    images: ['/images/products/aaa-large.svg'],
+    images: ['/images/products/real/aaa-large-real-v2.jpg'],
     inStock: true,
     isFeatured: true,
     translations: {
@@ -41,7 +41,7 @@ export const products: Product[] = [
     origin: 'philippines',
     weightGrams: 250,
     priceHKD: 1580,
-    images: ['/images/products/aaa-medium.svg'],
+    images: ['/images/products/real/aaa-medium-real-v2.jpg'],
     inStock: true,
     isFeatured: true,
     translations: {
@@ -77,7 +77,7 @@ export const products: Product[] = [
     origin: 'indonesia',
     weightGrams: 500,
     priceHKD: 1880,
-    images: ['/images/products/aa-large.svg'],
+    images: ['/images/products/real/aa-large-real-v2.jpg'],
     inStock: true,
     isFeatured: true,
     translations: {
@@ -109,7 +109,7 @@ export const products: Product[] = [
     origin: 'indonesia',
     weightGrams: 250,
     priceHKD: 980,
-    images: ['/images/products/aa-medium.jpg'],
+    images: ['/images/products/real/aa-medium-real.jpg'],
     inStock: true,
     isFeatured: false,
     translations: {
@@ -141,7 +141,7 @@ export const products: Product[] = [
     origin: 'india',
     weightGrams: 500,
     priceHKD: 1280,
-    images: ['/images/products/a-large.jpg'],
+    images: ['/images/products/real/a-large-real.jpg'],
     inStock: true,
     isFeatured: false,
     translations: {
@@ -173,7 +173,7 @@ export const products: Product[] = [
     origin: 'south-africa',
     weightGrams: 1000,
     priceHKD: 1480,
-    images: ['/images/products/b-bulk.jpg'],
+    images: ['/images/products/real/b-bulk-real.jpg'],
     inStock: true,
     isFeatured: false,
     translations: {
@@ -205,7 +205,7 @@ export const products: Product[] = [
     origin: 'philippines',
     weightGrams: 300,
     priceHKD: 2200,
-    images: ['/images/products/gift-classic.jpg'],
+    images: ['/images/products/gift-classic.svg'],
     inStock: true,
     isFeatured: false,
     translations: {
@@ -237,7 +237,7 @@ export const products: Product[] = [
     origin: 'indonesia',
     weightGrams: 200,
     priceHKD: 680,
-    images: ['https://source.unsplash.com/featured/1200x900/?soup,prepared-food'],
+    images: ['/images/products/processed.svg'],
     inStock: true,
     isFeatured: false,
     translations: {
@@ -276,3 +276,4 @@ export function getRelatedProducts(current: Product, limit = 4): Product[] {
     .filter((p) => p.id !== current.id && (p.grade === current.grade || p.category === current.category))
     .slice(0, limit);
 }
+
